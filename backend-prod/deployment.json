@@ -1,8 +1,8 @@
 {
-  "image": "ghcr.io/mize-hesab-co/mizehesab_backend/backend:0000000000aa",
-  "tag": "0000000000aa",
-  "previous_tag": "",
-  "commit": "0000000000aa",
+  "image": "ghcr.io/mize-hesab-co/mizehesab_backend:409f6717cc8d",
+  "tag": "409f6717cc8d",
+  "previous_tag": "0000000000aa",
+  "commit": "409f6717cc8da51ddcb09e46bcb76b387e1a6968",
   "migration": "none",
-  "created": "2026-09-11T00:00:00Z"
+  "created": "2026-11-24T22:02:52Z"
 }
