@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/mize-hesab-co/mizehesab_frontend:0000000000aa",
+  "image": "ghcr.io/mize-hesab-co/mizehesab_frontend_app:0000000000aa",
   "tag": "0000000000aa",
   "previous_tag": "",
   "commit": "0000000000aa",
