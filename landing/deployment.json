@@ -1,8 +1,8 @@
 {
-  "image": "ghcr.io/mize-hesab-co/mizehesab_frontend_landing:0afe4483ee18",
-  "tag": "0afe4483ee18",
-  "previous_tag": "0000000000aa",
-  "commit": "0afe4483ee180b9313fffebbe7ba4da7f1fb6292",
+  "image": "ghcr.io/mize-hesab-co/mizehesab_frontend_landing:1df42c1e1dc4",
+  "tag": "1df42c1e1dc4",
+  "previous_tag": "0afe4483ee18",
+  "commit": "1df42c1e1dc45e13adb33387babe39f4bc41b37e",
   "migration": "none",
-  "created": "2026-11-24T22:48:45Z"
+  "created": "2026-11-25T06:26:46Z"
 }
